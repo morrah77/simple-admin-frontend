@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+.App .Overlay {
+  position: absolute;
+  margin: auto;
+  background-color: rgba(50,50,50, .7);
+  padding: 20px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.App .Overlay > .container {
+  background-color: white;
+  padding: 20px 10px;
+}
+
+.App .Overlay > .container ul {
+  list-style-type: none;
+}

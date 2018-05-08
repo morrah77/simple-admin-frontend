@@ -1,0 +1,12 @@
+.Subscriptions {
+
+}
+.Subscriptions > ul {
+    list-style-type: none;
+}
+.Subscriptions > ul li {
+    margin: .5em;
+}
+.Subscriptions > ul li > * {
+    margin: 0 .5em;
+}

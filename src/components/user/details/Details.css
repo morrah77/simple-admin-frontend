@@ -1,0 +1,19 @@
+.User {
+
+}
+.User fieldset {
+    padding: 1em;
+}
+.User fieldset label {
+    font-weight: bold;
+    padding: 0 1em;
+}
+.User > ul {
+    list-style-type: none;
+}
+.User > ul li {
+    margin: .5em;
+}
+.User > ul li > * {
+    margin: 0 .5em;
+}
